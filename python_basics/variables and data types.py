@@ -13,7 +13,7 @@ salary=2000.00
 marital_status=False
 a=None
 
-print(name)         #ramjan
+print(name)         
 print(type(name))   #string
 print(type(age))    #integers    
 print(type(salary)) #float
