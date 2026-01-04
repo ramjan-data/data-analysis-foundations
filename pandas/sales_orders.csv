@@ -1,0 +1,11 @@
+order_id,customer_id,order_date,region,product,category,quantity,unit_price,discount,returned
+1001,C001,2023-01-05,Asia,Laptop,Electronics,1,1200,,False
+1002,C002,2023-01-07,Europe,Phone,Electronics,2,800,0.1,False
+1003,C003,2023-01-10,Asia,Chair,Furniture,4,150,,True
+1004,C001,2023-01-15,Asia,Desk,Furniture,1,300,0.05,False
+1005,C004,2023-01-20,America,Phone,Electronics,1,850,,False
+1006,C005,2023-02-01,Europe,Laptop,Electronics,1,1250,0.15,True
+1007,C006,2023-02-05,Asia,Table,Furniture,2,400,,False
+1008,C002,2023-02-10,Europe,Phone,Electronics,3,780,,False
+1009,C007,2023-02-14,America,Chair,Furniture,5,140,0.1,False
+1010,C008,2023-02-20,Asia,Laptop,Electronics,1,1300,,False
